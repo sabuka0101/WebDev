@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1{
+    border: 3px solid rgb(15, 48, 141);
+    padding: 10px;
+    border-style: dashed;
+    background-color: cornflowerblue;
+}
+.div2{
+  border: 3px solid rgb(165, 171, 189); 
+  padding: 10px;
+  border-style: dashed;
+  background-color: rgb(212, 222, 241);
+}
+.span1{
+    background-color: gold;
+    border: 1px solid goldenrod;
+    color: rgb(70, 65, 4);
+    padding: 2px;
+}
+.div3{
+  border: 3px solid rgb(240, 236, 24); 
+  padding: 10px;
+  background-color: rgb(233, 236, 243);
+}
+button{
+    height: 35px;
+    width: 130px;
+}
+.span2{
+    background-color: rgb(253, 254, 255);
+    padding: 2px;
+}
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid rgb(35, 142, 241);
+    margin-right: 20px;
+}
+.div4{
+    background-color: rgb(253, 254, 255);
+    border: 1px solid rgb(35, 142, 241);
+}
